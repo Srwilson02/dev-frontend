@@ -24,7 +24,6 @@ header h1 {
 
 .logo {
   color: #ffd54f;          /* o SVG usa fill="currentColor" */
- /* ryyd */
 }
 
 .logo:hover {
